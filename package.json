@@ -32,7 +32,7 @@
       "react-app/jest"
     ]
   },
-  "homepage": "https://Gangyong92.github.io/nomflix",
+  "homepage": "https://optimistic-borg-e0c399.netlify.app",
   "browserslist": {
     "production": [
       ">0.2%",
